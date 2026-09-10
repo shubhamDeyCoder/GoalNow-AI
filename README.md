@@ -20,12 +20,12 @@
 ## Product preview
 
 <p align="center">
-  <img src="./public/screenshots/landing-page.png" alt="GoalNow-AI landing page" width="100%" />
+  <img src="./public/screenshots/land-page.png" alt="GoalNow-AI landing page" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./public/screenshots/dashboard.png" alt="GoalNow-AI goal dashboard" width="49%" />
-  <img src="./public/screenshots/goal-tracker.png" alt="GoalNow-AI complex goal tracker" width="49%" />
+  <img src="./public/screenshots/dash.png" alt="GoalNow-AI goal dashboard" width="49%" />
+  <img src="./public/screenshots/goal-page.png" alt="GoalNow-AI complex goal tracker" width="49%" />
 </p>
 
 ---
