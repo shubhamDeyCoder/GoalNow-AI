@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="./public/screenshots/dash.png" alt="GoalNow-AI goal dashboard" width="49%" />
+  <img src="./public/screenshots/Dash copy.png" alt="GoalNow-AI goal dashboard" width="49%" />
   <img src="./public/screenshots/goal-page.png" alt="GoalNow-AI complex goal tracker" width="49%" />
 </p>
 
