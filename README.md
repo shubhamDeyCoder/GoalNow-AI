@@ -374,7 +374,7 @@ Do not commit `.env.local` to GitHub.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shubhamdey665-coder/GoalNow-AI.git
+git clone https://github.com/shubhamDeyCoder/GoalNow-AI.git
 ```
 
 ### 2. Go into the project folder
