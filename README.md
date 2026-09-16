@@ -32,7 +32,7 @@
 
 ## What is GoalNow-AI?
 
-GoalNow-AI helps bridge the gap between setting ambitious goals and following through every day. It supports lightweight habit tracking and structured long-term plans, then brings daily progress, weekly reviews, and focused mentor-style guidance into one workspace.
+GoalNow-AI helps bridge the gap between setting ambitious goals and following through every day. It supports lightweight habit tracking and structured long-term plans, then brings daily progress, weekly reviews, tests and focused mentor-style guidance into one workspace.
 
 > **The idea:** a goal should feel like a next action, not a vague promise.
 
